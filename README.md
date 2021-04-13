@@ -43,6 +43,7 @@ Running the playbook will create a folder of .json files in your user’s home d
 
 ### Authors
 
+* **Lumos Cloud** - *licensed Distributor* - [lumoscloud](https://github.com/lumoscloud)
 * **James Kayser** - *Initial work* - [kayserj](https://github.com/kayserj)
 
 ### License
